@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  /* Header/Logo Title */
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    display:flex;
+    justify-content: space-between;
+  }
+  
+  .nav {
+     list-style-type: none;
+        margin: 0;
+        padding: 0;
+      display: flex;
+      gap : 50px;
+      
+  }
+  /* Page Content */
+  .footer {
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(46, 15, 15);
+    color: white;
+    justify-content: left;
+    padding-left: 100px ;
+    display: flex;
+ }
+
