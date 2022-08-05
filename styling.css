@@ -36,3 +36,24 @@ body {
     display: flex;
  }
 
+.emp {
+
+font-size: 30px;
+  padding: 10px;
+  text-align: left ;
+  display: flex;
+  flex-direction: column;
+}
+
+.row{
+
+
+  display:flex;
+   justify-content:space-between ;
+}
+#mainContaner
+{
+display: flex;
+flex-direction: column;
+
+}
